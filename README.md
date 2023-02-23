@@ -1,6 +1,6 @@
 <h1 align="center">Aleksandar Kalaydzhiev</h1>
         
-<h2 align="center">So called Blockchain Developer</h3>
+<h2 align="center">Software Developer</h3>
         <br>
 
 
